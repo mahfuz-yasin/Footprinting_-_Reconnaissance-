@@ -8,9 +8,10 @@
 
 **Footprinting** (ফুটপ্রিন্টিং):
 
-> টার্গেট সিস্টেম/নেটওয়ার্ক সম্পর্কে যত বেশি সম্ভব তথ্য সংগ্রহ করা (domain, IP, server, email, network range ইত্যাদি)।
-> **Reconnaissance** (রেকনিসেন্স):
-> এটি আরও ব্যাপক, যার মধ্যে footprinting ছাড়াও social engineering, open-source intelligence (OSINT), এবং physical surveillance ইত্যাদি থাকতে পারে।
+-    টার্গেট সিস্টেম/নেটওয়ার্ক সম্পর্কে যত বেশি সম্ভব তথ্য সংগ্রহ করা (domain, IP, server, email, network range ইত্যাদি)।
+
+**Reconnaissance** (রেকনিসেন্স):
+-    এটি আরও ব্যাপক, যার মধ্যে footprinting ছাড়াও social engineering, open-source intelligence (OSINT), এবং physical surveillance ইত্যাদি থাকতে পারে।
 
 দুটি ধাপই মূলত “pre-attack phase” অর্থাৎ আক্রমণের আগে তথ্য সংগ্রহ করার পর্যায়।
 
