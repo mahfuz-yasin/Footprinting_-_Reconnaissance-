@@ -579,3 +579,5 @@ Footprinting ও Reconnaissance-এর মাধ্যমে আপনি—
 | Mnemonic Shortcut             | "People Do Network OSINT..."              | ✅             |
 | Lab Suggestion + Platforms    | TryHackMe, HackTheBox                     | ✅             |
 | Legal & Ethical Consideration | Scope of Engagement, Authorization        | ✅             |
+
+
